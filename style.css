@@ -1,0 +1,26 @@
+body{
+		font-size:25px;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+	h1 {
+		color: #333;
+		text-align: center;
+	}
+	section{
+		width: 600px;
+		margin: 0 auto;
+			text-align: center;
+	}
+		form{
+			margin-top: 20px;
+		}
+		a:link{text-decoration:none;color:#090}
+		a:visited{text-decoration:none;color:#090}
+		a:hover{text-decoration:none;color:#F03}
+		
+		#updown{
+			font-size:10px;
+		}
+		#tarefas-listagem li {
+			list-style: none;
+		}
