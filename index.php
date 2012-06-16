@@ -52,7 +52,7 @@ $cursor->sort(array('Prioridade' => -1))->limit(41)->skip(0);
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	<title>iMasters - Sistema de Tarefas</title>
+	<title>School of Net - Sistema de Tarefas</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
